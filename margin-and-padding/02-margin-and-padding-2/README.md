@@ -16,3 +16,12 @@ Use this section to check your work. On _these_ projects, your goal isn't to att
 - Everything inside the `.button-container` section is centered, and there is 8px padding.
 - The Big Button is centered on its own line.
 - The Big Button has 24px space on the sides, and 8px on top and bottom.
+
+# POST
+
+Learned items:
+- Create space between edge of card/box/container/div and inner contents with padding
+- To achieve centered look, use "text-align" for some items and "margin: auto" for others... but which?
+- Reinforced idea that you can have different top/bottom vs right/left paddings and margins.
+- Reinforced idea that you only need to set margins for one content box above or below, not both.
+- Reinforced idea that different browsers and computers will display fonts and pixels differently.
