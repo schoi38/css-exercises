@@ -17,4 +17,4 @@ Use this section to check your work. On _these_ projects, your goal isn't to att
 
 I learned:
 - that when there's only block elements, you only need to add margins to one of the adjacent boxes/elements. Since they're going to collapse anyways, you only need to set margins for one of the adjacent boxes. It'd be redundant otherwise.
-- further how "margin: auto" operates. Yes, it's usually zero, but ti can also be whatever space is available on that side of the element. This trick can be used to align a box to the right or left (and maybe the top or bottom?).
+- further how "margin: auto" operates. Yes, it's usually zero, but it can also be whatever space is available on that side of the element. This trick can be used to align a box to the right or left (and maybe the top or bottom?).
