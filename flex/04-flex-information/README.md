@@ -17,3 +17,9 @@ For this one you will need to edit the HTML a little bit too. We can't be making
 - The items are arranged horizontally on the page.
 - The items are only 200px wide and the text wraps.
 - The item text is centered.
+
+#### Learned/Questions
+
+- can use "text-align" to align text
+- why does "text-align" work inside grandchildren and not just direct children?
+- in block style and a max-width, does text automatically wrap?
